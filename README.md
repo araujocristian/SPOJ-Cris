@@ -1,1 +1,3 @@
-# helloword
+# Repositório SPOJ
+
+Problemas solucionados do SPOJ
